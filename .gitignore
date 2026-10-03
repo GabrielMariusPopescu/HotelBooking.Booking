@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Booking/.vs/Booking
+/Booking/HotelBooking.Persistence/obj
+/Booking/HotelBooking.Application/obj
+/Booking/HotelBooking.API/obj
+/Booking/HotelBooking.API/bin/Debug/net8.0
+/Booking/HotelBooking.Domain/obj
