@@ -8,3 +8,6 @@
 /Booking/HotelBooking.API/obj
 /Booking/HotelBooking.API/bin/Debug/net8.0
 /Booking/HotelBooking.Domain/obj
+/Booking/HotelBooking.Application/bin/Debug/net8.0
+/Booking/HotelBooking.Domain/bin/Debug/net8.0
+/Booking/HotelBooking.Persistence/bin/Debug/net8.0

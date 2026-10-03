@@ -7,11 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="MediatR" Version="14.2.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.4" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\HotelBooking.Application\HotelBooking.Application.csproj" />
+    <ProjectReference Include="..\HotelBooking.Domain\HotelBooking.Domain.csproj" />
+    <ProjectReference Include="..\HotelBooking.Persistence\HotelBooking.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

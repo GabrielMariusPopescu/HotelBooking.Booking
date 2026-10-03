@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBooking.Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelBooking.Persistence", "HotelBooking.Persistence\HotelBooking.Persistence.csproj", "{92C34671-EFA3-4BA5-AE2F-1F8FB7E00B95}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21DCB5A3-CFAB-426E-BC90-F77E6CE39691}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
