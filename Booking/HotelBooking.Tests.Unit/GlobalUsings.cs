@@ -1,9 +1,0 @@
-global using FluentAssertions;
-global using HotelBooking.Application.Commands;
-global using HotelBooking.Application.Queries;
-global using HotelBooking.Application.Records;
-global using HotelBooking.Application.Repositories;
-global using HotelBooking.Domain.Enums;
-global using HotelBooking.Domain.Models;
-global using Moq;
-global using Xunit;
