@@ -11,3 +11,10 @@
 /Booking/HotelBooking.Application/bin/Debug/net8.0
 /Booking/HotelBooking.Domain/bin/Debug/net8.0
 /Booking/HotelBooking.Persistence/bin/Debug/net8.0
+/Booking/.vs/ProjectEvaluation
+/Booking/HotelBooking.Booking.API.Tests/bin/Debug/net8.0
+/Booking/HotelBooking.Booking.API.Tests/obj
+/Booking/HotelBooking.Tests.Integration/bin/Debug/net8.0
+/Booking/HotelBooking.Tests.Integration/obj
+/Booking/HotelBooking.Tests.Unit/bin/Debug/net8.0
+/Booking/HotelBooking.Tests.Unit/obj
